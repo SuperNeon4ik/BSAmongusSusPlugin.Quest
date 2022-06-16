@@ -3,9 +3,9 @@
 Adds sus stuff to Beat Saber. For example, random vinebooms, hope u enjoy.
 
 **Features:**
-[ ] Random vinebooms
-[ ] Random amongus jumpscares
-[v] Impostor reveal sound from Among Us when you go to the main menu
+- [ ] Random vinebooms
+- [ ] Random amongus jumpscares
+- [x] Impostor reveal sound from Among Us when you go to the main menu
 
 PC Version [here](https://github.com/SuperNeon4ik/BSAmongusSusPlugin)
 
