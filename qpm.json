@@ -4,7 +4,7 @@
   "info": {
     "name": "AmongusSusMod",
     "id": "amongus-sus-mod",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "url": null,
     "additionalData": {
       "overrideSoName": "libamongus-sus-mod.so"
@@ -28,11 +28,6 @@
     {
       "id": "codegen",
       "versionRange": "^0.22.0",
-      "additionalData": {}
-    },
-    {
-      "id": "questui",
-      "versionRange": "^0.13.5",
       "additionalData": {}
     },
     {

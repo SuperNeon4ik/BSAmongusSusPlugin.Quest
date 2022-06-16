@@ -1,7 +1,6 @@
-// #include "QSoundsConfig.hpp"
+// From https://github.com/EnderdracheLP/QuestSounds/blob/master/src/QSoundsConfig.cpp
 #include "Utils/AsyncAudiocliploader.hpp"
 #include "main.hpp"
-// #include "ObjectInstances.hpp"
 
 #include <dirent.h>
 #include <regex>
@@ -43,7 +42,6 @@ int getAudioType(std::string path) {
 }
 
 System::Threading::Tasks::Task_1<UnityEngine::AudioClip*>* audioClipTask;
-//bool NeedReload = false;
 
 bool AsyncAudioClipLoader::loader::load()
 {

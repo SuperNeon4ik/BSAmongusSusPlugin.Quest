@@ -1,3 +1,4 @@
+// From https://github.com/EnderdracheLP/QuestSounds/blob/master/src/QSoundsConfig.cpp
 #pragma once
 #include "UnityEngine/AudioSource.hpp"
 #include "UnityEngine/AudioClip.hpp"
