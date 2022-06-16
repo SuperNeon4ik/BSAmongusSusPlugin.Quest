@@ -9,6 +9,8 @@ Adds sus stuff to Beat Saber. For example, random vinebooms, hope u enjoy.
 
 PC Version [here](https://github.com/SuperNeon4ik/BSAmongusSusPlugin)
 
+I've been highly dependant on the code from [QuestSounds by EnderdracheLP](https://github.com/EnderdracheLP/QuestSounds)
+
 ## Credits
 
 * [zoller27osu](https://github.com/zoller27osu), [Sc2ad](https://github.com/Sc2ad) and [jakibaki](https://github.com/jakibaki) - [beatsaber-hook](https://github.com/sc2ad/beatsaber-hook)
